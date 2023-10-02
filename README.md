@@ -23,3 +23,15 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+
+## Offline
+## Offline
+I did do a lot of this code offline so there will be limited commets when i git push and what not but i tried to add enough commets on my actual code to get the reader to understand what i was trying to accomplish and what i wanted to add.
+## Image
+
+## URL
+
+## GitHub
+
+## Profile URL
+https://jo3yg.github.io/Challenge02/
