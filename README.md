@@ -1,14 +1,6 @@
 # Challenge06
 # 06 Server-Side APIs: Weather Dashboard
 
-## Your Task
-
-Use the [5 Day Weather Forecast](https://openweathermap.org/forecast5) to retrieve weather data for cities. The base URL should look like the following: `https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}`. After registering for a new API key, you may need to wait up to 2 hours for that API key to activate.
-
-**Hint**: Using the 5 Day Weather Forecast API, you'll notice that you will need to pass in coordinates instead of just a city name. Using the OpenWeatherMap APIs, how could we retrieve geographical coordinates given a city name?
-
-You will use `localStorage` to store any persistent data. For more information on how to work with the OpenWeather API, refer to the [Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys).
-
 ## User Story
 AS A traveler
 I WANT to see the weather outlook for multiple cities
@@ -25,13 +17,12 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Offline
-## Offline
-I did do a lot of this code offline so there will be limited commets when i git push and what not but i tried to add enough commets on my actual code to get the reader to understand what i was trying to accomplish and what i wanted to add.
-## Image
+I did do a lot of this code offline so there will be limited commets when i git push and what not but i tried to add enough commets on my actual code to get the reader to understand what i was trying to accomplish and what i wanted to add. was harder working offline as i needed to be online in order to pull from api
+
 
 ## URL
-
+https://jo3yg.github.io/Challenge06/
 ## GitHub
-
+git@github.com:Jo3yG/Challenge06.git
 ## Profile URL
 https://jo3yg.github.io/Challenge02/
