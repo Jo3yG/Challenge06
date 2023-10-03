@@ -23,6 +23,6 @@ I did do a lot of this code offline so there will be limited commets when i git 
 ## URL
 https://jo3yg.github.io/Challenge06/
 ## GitHub
-git@github.com:Jo3yG/Challenge06.git
+https://github.com/Jo3yG/Challenge06.git
 ## Profile URL
 https://jo3yg.github.io/Challenge02/
